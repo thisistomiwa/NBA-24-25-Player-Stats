@@ -1,0 +1,1 @@
+This Excel file contains totals, averages, and advanced statistics for NBA players from the 2024–25 regular season. For players who represented multiple teams during the season, the dataset consolidates their statistics under their current team, reflecting their full-season performance. The dataset comprises 560 players and was sourced from Basketball-Reference.
